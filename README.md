@@ -12,11 +12,11 @@
 ![](https://img.shields.io/badge/circleci-informational?style=flat&logoColor=white&color=4AB197)
 
 
-![](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
+![](https://img.shields.io/badge/React_Native-3C3C3D?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/eslint-3C3C3D?style=for-the-badge&logo=eslint&logoColor=white)
 
 ![](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
-![](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)
+![](https://img.shields.io/badge/Binance-3C3C3D?style=for-the-badge&logo=binance&logoColor=white)
 
 <details>
 <summary>More Skills</summary>
