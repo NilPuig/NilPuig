@@ -1,25 +1,21 @@
 
 ## 💼 Skills
 
-![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Env-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=4AB197)
-
-![](https://img.shields.io/badge/Framework-Express.js-informational?style=flat&logo=Express&logoColor=white&color=4AB197)
-
-
-![](https://img.shields.io/badge/Amazon_AWS-informational?style=flat&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/circleci-informational?style=flat&logoColor=white&color=4AB197)
-
-![](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&style=flat&logoColor=white&color=4AB197)
-[![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&style=flat&logoColor=white&color=4AB197)](#)
-![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/scikit-learn?style=flat&logoColor=white&color=4AB197)
-
-![](https://img.shields.io/badge/React_Native-3C3C3D?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/eslint-3C3C3D?style=for-the-badge&logo=eslint&logoColor=white)
-
-![](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
+![Node.js](https://img.shields.io/badge/Env-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=4AB197)
+![Express.js](https://img.shields.io/badge/Framework-Express.js-informational?style=flat&logo=Express&logoColor=white&color=4AB197)
+![Go](https://img.shields.io/badge/Go-informational?style=flat&logo=Go&logoColor=white&color=4AB197)
+![Gin](https://img.shields.io/badge/Framework-Gin-informational?style=flat&logo=Gin&logoColor=white&color=4AB197)
+![React Native](https://img.shields.io/badge/React_Native-informational?style=flat&logo=react&logoColor=61DAFB&color=4AB197)
+![ESLint](https://img.shields.io/badge/eslint-informational?style=flat&logo=eslint&logoColor=white&color=4AB197)
+![MongoDB](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
+![Redis](https://img.shields.io/badge/Redis-informational?style=flat&logo=redis&logoColor=white&color=4AB197)
+![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-informational?style=flat&logo=Amazon-AWS&logoColor=white&color=4AB197)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&style=flat&logoColor=white&color=4AB197)
+![CircleCI](https://img.shields.io/badge/circleci-informational?style=flat&logo=circleci&logoColor=white&color=4AB197)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&color=4AB197)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-informational?style=flat&logo=scikit-learn&logoColor=white&color=4AB197)
+![Ethereum](https://img.shields.io/badge/Ethereum-informational?style=flat&logo=Ethereum&logoColor=white&color=4AB197)
 
 <details>
 <summary>More Skills</summary>
@@ -36,7 +32,7 @@
 <p align="left">
 <a href="https://github.com/NilPuig">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NilPuig&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NilPuig&layout=compact&theme=algolia"/>
-</a>
+<!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NilPuig&layout=compact&theme=algolia"/> -->
+</a>  
 </p>
  
